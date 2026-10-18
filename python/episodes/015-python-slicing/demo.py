@@ -1,0 +1,3 @@
+letters = ["a", "b", "c", "d", "e"]
+print(letters[1:4])
+print(letters[::-1])
