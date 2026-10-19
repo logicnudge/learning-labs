@@ -17,16 +17,16 @@ python -m unittest discover -s python/tests -v
 
 You can also visit each numbered lesson below to read the explanation, expected output, and a small challenge.
 
-- **#011** [Why Did a Change When We Edited b?](python/episodes/011-python-list-references/README.md)
-- **#012** [Python == vs is: Same Value, Same Object?](python/episodes/012-python-equality-identity/README.md)
-- **#013** [Python Negative Indexes Explained Visually](python/episodes/013-python-negative-indexing/README.md)
-- **#014** [Why range(5) Stops at Four](python/episodes/014-python-range-stop/README.md)
-- **#015** [Python Slicing: The Right Edge Is Excluded](python/episodes/015-python-slicing/README.md)
-- **#016** [Python List vs Tuple: What Can Change?](python/episodes/016-python-list-tuple/README.md)
-- **#017** [Python Truthiness Is Not the Same as Equality](python/episodes/017-python-truthiness/README.md)
-- **#018** [Python dict.get vs Square Brackets](python/episodes/018-python-dict-get/README.md)
-- **#019** [Python enumerate: Position Plus Value](python/episodes/019-python-enumerate/README.md)
-- **#020** [List Comprehension: Filter and Transform](python/episodes/020-python-list-comprehension/README.md)
+- **#011** [Why Did a Change When We Edited b?](python/episodes/011-python-list-references/README.md) · [Watch Short](https://www.youtube.com/shorts/Uds_93JJsmA)
+- **#012** [Python == vs is: Same Value, Same Object?](python/episodes/012-python-equality-identity/README.md) · [Watch Short](https://www.youtube.com/shorts/6yix_ffkwVs)
+- **#013** [Python Negative Indexes Explained Visually](python/episodes/013-python-negative-indexing/README.md) · [Watch Short](https://www.youtube.com/shorts/6G-IxA4HNKA)
+- **#014** [Why range(5) Stops at Four](python/episodes/014-python-range-stop/README.md) · [Watch Short](https://www.youtube.com/shorts/DkFhTjA3fCU)
+- **#015** [Python Slicing: The Right Edge Is Excluded](python/episodes/015-python-slicing/README.md) · [Watch Short](https://www.youtube.com/shorts/AxMMbM9VSTA)
+- **#016** [Python List vs Tuple: What Can Change?](python/episodes/016-python-list-tuple/README.md) · [Watch Short](https://www.youtube.com/shorts/uVkWI0cLCLk)
+- **#017** [Python Truthiness Is Not the Same as Equality](python/episodes/017-python-truthiness/README.md) · [Watch Short](https://www.youtube.com/shorts/G9JLQGHW5EQ)
+- **#018** [Python dict.get vs Square Brackets](python/episodes/018-python-dict-get/README.md) · [Watch Short](https://www.youtube.com/shorts/VJHmOe9Pjcw)
+- **#019** [Python enumerate: Position Plus Value](python/episodes/019-python-enumerate/README.md) · [Watch Short](https://www.youtube.com/shorts/d7RqgjVr0TM)
+- **#020** [List Comprehension: Filter and Transform](python/episodes/020-python-list-comprehension/README.md) · [Watch Short](https://www.youtube.com/shorts/cZg1H5wextk)
 
 ### Interactive practice
 
@@ -38,7 +38,7 @@ Examples are checked against their recorded outputs. Editorial drafts, voice ass
 
 ## Watch the companion content
 
-[Logic Nudge on YouTube](https://www.youtube.com/@logicnudge). Related videos will be linked from lessons as they go live; we do **not** invent video URLs before publication.
+[Logic Nudge on YouTube](https://www.youtube.com/@logicnudge). All ten Python episodes now link to their verified published Shorts. Browse the complete 20-video library in the [Logic Nudge Learning Hub](https://logicnudge.github.io/).
 
 ## License and privacy
 

@@ -1,5 +1,9 @@
 # 011 — Why Did a Change When We Edited b?
 
+**Watch the Short:** [Episode #011 on YouTube](https://www.youtube.com/shorts/Uds_93JJsmA)
+
+**Learning Hub:** [Browse episode #011](https://logicnudge.github.io/#lesson-011)
+
 **Level:** Beginner · **Format:** State Lens / Predict-Run-Explain
 
 ## Predict

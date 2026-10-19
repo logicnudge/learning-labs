@@ -1,5 +1,9 @@
 # 017 — Python Truthiness Is Not the Same as Equality
 
+**Watch the Short:** [Episode #017 on YouTube](https://www.youtube.com/shorts/G9JLQGHW5EQ)
+
+**Learning Hub:** [Browse episode #017](https://logicnudge.github.io/#lesson-017)
+
 **Level:** Beginner · **Format:** Predict-Run-Explain
 
 ## Predict

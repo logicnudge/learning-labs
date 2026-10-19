@@ -1,5 +1,9 @@
 # 020 — List Comprehension: Filter and Transform
 
+**Watch the Short:** [Episode #020 on YouTube](https://www.youtube.com/shorts/cZg1H5wextk)
+
+**Learning Hub:** [Browse episode #020](https://logicnudge.github.io/#lesson-020)
+
 **Level:** Beginner · **Format:** Two Paths, Same Result
 
 ## Predict

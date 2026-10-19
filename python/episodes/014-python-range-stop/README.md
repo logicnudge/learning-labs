@@ -1,5 +1,9 @@
 # 014 — Why range(5) Stops at Four
 
+**Watch the Short:** [Episode #014 on YouTube](https://www.youtube.com/shorts/DkFhTjA3fCU)
+
+**Learning Hub:** [Browse episode #014](https://logicnudge.github.io/#lesson-014)
+
 **Level:** Beginner · **Format:** Timeline / State Lens
 
 ## Predict

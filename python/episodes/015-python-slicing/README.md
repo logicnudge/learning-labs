@@ -1,5 +1,9 @@
 # 015 — Python Slicing: The Right Edge Is Excluded
 
+**Watch the Short:** [Episode #015 on YouTube](https://www.youtube.com/shorts/AxMMbM9VSTA)
+
+**Learning Hub:** [Browse episode #015](https://logicnudge.github.io/#lesson-015)
+
 **Level:** Beginner · **Format:** See the Invisible
 
 ## Predict

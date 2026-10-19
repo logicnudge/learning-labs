@@ -1,5 +1,9 @@
 # 018 — Python dict.get vs Square Brackets
 
+**Watch the Short:** [Episode #018 on YouTube](https://www.youtube.com/shorts/VJHmOe9Pjcw)
+
+**Learning Hub:** [Browse episode #018](https://logicnudge.github.io/#lesson-018)
+
 **Level:** Beginner · **Format:** Bug Autopsy
 
 ## Predict

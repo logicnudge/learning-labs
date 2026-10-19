@@ -1,5 +1,9 @@
 # 016 — Python List vs Tuple: What Can Change?
 
+**Watch the Short:** [Episode #016 on YouTube](https://www.youtube.com/shorts/uVkWI0cLCLk)
+
+**Learning Hub:** [Browse episode #016](https://logicnudge.github.io/#lesson-016)
+
 **Level:** Beginner · **Format:** Bug Autopsy
 
 ## Predict

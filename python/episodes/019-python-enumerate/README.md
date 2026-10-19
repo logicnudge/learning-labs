@@ -1,5 +1,9 @@
 # 019 — Python enumerate: Position Plus Value
 
+**Watch the Short:** [Episode #019 on YouTube](https://www.youtube.com/shorts/d7RqgjVr0TM)
+
+**Learning Hub:** [Browse episode #019](https://logicnudge.github.io/#lesson-019)
+
 **Level:** Beginner · **Format:** State Lens
 
 ## Predict

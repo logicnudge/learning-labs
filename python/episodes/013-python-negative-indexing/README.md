@@ -1,5 +1,9 @@
 # 013 — Python Negative Indexes Explained Visually
 
+**Watch the Short:** [Episode #013 on YouTube](https://www.youtube.com/shorts/6G-IxA4HNKA)
+
+**Learning Hub:** [Browse episode #013](https://logicnudge.github.io/#lesson-013)
+
 **Level:** Beginner · **Format:** See the Invisible
 
 ## Predict

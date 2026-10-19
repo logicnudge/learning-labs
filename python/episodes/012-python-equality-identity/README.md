@@ -1,5 +1,9 @@
 # 012 — Python == vs is: Same Value, Same Object?
 
+**Watch the Short:** [Episode #012 on YouTube](https://www.youtube.com/shorts/6yix_ffkwVs)
+
+**Learning Hub:** [Browse episode #012](https://logicnudge.github.io/#lesson-012)
+
 **Level:** Beginner · **Format:** Predict-Run-Explain
 
 ## Predict
