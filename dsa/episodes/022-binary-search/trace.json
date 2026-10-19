@@ -1,0 +1,39 @@
+{
+  "input": [
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14
+  ],
+  "target": 12,
+  "events": [
+    {
+      "step": "compare",
+      "low": 0,
+      "mid": 3,
+      "high": 6,
+      "value": 8
+    },
+    {
+      "step": "discard",
+      "direction": "right",
+      "new_low": 4,
+      "new_high": 6
+    },
+    {
+      "step": "compare",
+      "low": 4,
+      "mid": 5,
+      "high": 6,
+      "value": 12
+    },
+    {
+      "step": "found",
+      "index": 5
+    }
+  ],
+  "result": 5
+}

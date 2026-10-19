@@ -1,0 +1,62 @@
+{
+  "input": [
+    1,
+    2,
+    3
+  ],
+  "events": [
+    {
+      "step": "save_next",
+      "current": 1,
+      "next": 2,
+      "previous": null
+    },
+    {
+      "step": "reverse_link",
+      "current": 1,
+      "points_to": null
+    },
+    {
+      "step": "advance",
+      "current": 2,
+      "previous": 1
+    },
+    {
+      "step": "save_next",
+      "current": 2,
+      "next": 3,
+      "previous": 1
+    },
+    {
+      "step": "reverse_link",
+      "current": 2,
+      "points_to": 1
+    },
+    {
+      "step": "advance",
+      "current": 3,
+      "previous": 2
+    },
+    {
+      "step": "save_next",
+      "current": 3,
+      "next": null,
+      "previous": 2
+    },
+    {
+      "step": "reverse_link",
+      "current": 3,
+      "points_to": 2
+    },
+    {
+      "step": "advance",
+      "current": null,
+      "previous": 3
+    }
+  ],
+  "result": [
+    3,
+    2,
+    1
+  ]
+}

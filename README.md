@@ -32,13 +32,37 @@ You can also visit each numbered lesson below to read the explanation, expected 
 
 [Python #011 — Reference TraceLab](labs/python/011-reference-lab.html). Download/open the HTML locally to experiment; no server needed.
 
+## DSA Explained Visually (#021–#030)
+
+Ten runnable, language-independent algorithm lessons with Python 3.10+ implementations, executable traces and edge-case tests. **The videos have not been published yet**; no Watch links are displayed for these lessons.
+
+Run from the repository root:
+
+```shell
+python dsa/episodes/021-two-sum/demo.py
+python -m unittest discover -s dsa/tests -v
+```
+
+Explore the [complete DSA collection](dsa/README.md), or choose a lesson:
+
+- **#021** [Two Sum — One-Pass Hashing](dsa/episodes/021-two-sum/README.md)
+- **#022** [Binary Search — Discard Half](dsa/episodes/022-binary-search/README.md)
+- **#023** [Two Pointers — Sorted Pair Search](dsa/episodes/023-two-pointers/README.md)
+- **#024** [Sliding Window — Reuse the Sum](dsa/episodes/024-sliding-window/README.md)
+- **#025** [Stack — Valid Parentheses](dsa/episodes/025-valid-parentheses/README.md)
+- **#026** [Reverse a Linked List — Save Next](dsa/episodes/026-reverse-linked-list/README.md)
+- **#027** [Recursion — Calls and Returns](dsa/episodes/027-recursion-stack/README.md)
+- **#028** [Merge Sort — Divide and Merge](dsa/episodes/028-merge-sort/README.md)
+- **#029** [BFS vs DFS — Traversal Order](dsa/episodes/029-bfs-vs-dfs/README.md)
+- **#030** [Dynamic Programming — Memoization](dsa/episodes/030-dp-memoization/README.md)
+
 ## Educational integrity
 
 Examples are checked against their recorded outputs. Editorial drafts, voice assets and internal production notes are intentionally excluded from this public repository. Some Python behavior depends on version or execution environment; refer to the caveats in each lesson. If you find a discrepancy, open an issue with the example, observed result, and Python version.
 
 ## Watch the companion content
 
-[Logic Nudge on YouTube](https://www.youtube.com/@logicnudge). All ten Python episodes now link to their verified published Shorts. Browse the complete 20-video library in the [Logic Nudge Learning Hub](https://logicnudge.github.io/).
+[Logic Nudge on YouTube](https://www.youtube.com/@logicnudge). All ten Python foundations episodes link to their verified published Shorts. The ten DSA lessons are available as code resources first; video links will be added after each episode is actually published. Browse the complete 30-lesson library in the [Logic Nudge Learning Hub](https://logicnudge.github.io/).
 
 ## License and privacy
 

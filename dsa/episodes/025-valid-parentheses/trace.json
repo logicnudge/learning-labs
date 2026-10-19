@@ -1,0 +1,112 @@
+{
+  "examples": [
+    {
+      "input": "{[()]}",
+      "events": [
+        {
+          "step": "push",
+          "index": 0,
+          "token": "{",
+          "stack": [
+            "{"
+          ]
+        },
+        {
+          "step": "push",
+          "index": 1,
+          "token": "[",
+          "stack": [
+            "{",
+            "["
+          ]
+        },
+        {
+          "step": "push",
+          "index": 2,
+          "token": "(",
+          "stack": [
+            "{",
+            "[",
+            "("
+          ]
+        },
+        {
+          "step": "compare",
+          "index": 3,
+          "closing": ")",
+          "top": "("
+        },
+        {
+          "step": "pop",
+          "index": 3,
+          "stack": [
+            "{",
+            "["
+          ]
+        },
+        {
+          "step": "compare",
+          "index": 4,
+          "closing": "]",
+          "top": "["
+        },
+        {
+          "step": "pop",
+          "index": 4,
+          "stack": [
+            "{"
+          ]
+        },
+        {
+          "step": "compare",
+          "index": 5,
+          "closing": "}",
+          "top": "{"
+        },
+        {
+          "step": "pop",
+          "index": 5,
+          "stack": []
+        },
+        {
+          "step": "done",
+          "remaining": []
+        }
+      ],
+      "result": true
+    },
+    {
+      "input": "([)]",
+      "events": [
+        {
+          "step": "push",
+          "index": 0,
+          "token": "(",
+          "stack": [
+            "("
+          ]
+        },
+        {
+          "step": "push",
+          "index": 1,
+          "token": "[",
+          "stack": [
+            "(",
+            "["
+          ]
+        },
+        {
+          "step": "compare",
+          "index": 2,
+          "closing": ")",
+          "top": "["
+        },
+        {
+          "step": "reject",
+          "index": 2
+        }
+      ],
+      "result": false
+    }
+  ]
+}

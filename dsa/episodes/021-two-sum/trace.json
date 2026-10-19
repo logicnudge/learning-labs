@@ -1,0 +1,43 @@
+{
+  "input": [
+    2,
+    7,
+    11,
+    15
+  ],
+  "target": 9,
+  "events": [
+    {
+      "step": "lookup",
+      "index": 0,
+      "value": 2,
+      "needed": 7,
+      "seen": {}
+    },
+    {
+      "step": "remember",
+      "index": 0,
+      "value": 2
+    },
+    {
+      "step": "lookup",
+      "index": 1,
+      "value": 7,
+      "needed": 2,
+      "seen": {
+        "2": 0
+      }
+    },
+    {
+      "step": "found",
+      "indices": [
+        0,
+        1
+      ]
+    }
+  ],
+  "result": [
+    0,
+    1
+  ]
+}

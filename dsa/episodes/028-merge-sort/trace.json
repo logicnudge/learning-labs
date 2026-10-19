@@ -1,0 +1,151 @@
+{
+  "input": [
+    7,
+    2,
+    5,
+    1
+  ],
+  "events": [
+    {
+      "step": "split",
+      "depth": 0,
+      "values": [
+        7,
+        2,
+        5,
+        1
+      ],
+      "left": [
+        7,
+        2
+      ],
+      "right": [
+        5,
+        1
+      ]
+    },
+    {
+      "step": "split",
+      "depth": 1,
+      "values": [
+        7,
+        2
+      ],
+      "left": [
+        7
+      ],
+      "right": [
+        2
+      ]
+    },
+    {
+      "step": "base",
+      "depth": 2,
+      "values": [
+        7
+      ]
+    },
+    {
+      "step": "base",
+      "depth": 2,
+      "values": [
+        2
+      ]
+    },
+    {
+      "step": "compare",
+      "depth": 1,
+      "left": 7,
+      "right": 2,
+      "take": "right"
+    },
+    {
+      "step": "merged",
+      "depth": 1,
+      "values": [
+        2,
+        7
+      ]
+    },
+    {
+      "step": "split",
+      "depth": 1,
+      "values": [
+        5,
+        1
+      ],
+      "left": [
+        5
+      ],
+      "right": [
+        1
+      ]
+    },
+    {
+      "step": "base",
+      "depth": 2,
+      "values": [
+        5
+      ]
+    },
+    {
+      "step": "base",
+      "depth": 2,
+      "values": [
+        1
+      ]
+    },
+    {
+      "step": "compare",
+      "depth": 1,
+      "left": 5,
+      "right": 1,
+      "take": "right"
+    },
+    {
+      "step": "merged",
+      "depth": 1,
+      "values": [
+        1,
+        5
+      ]
+    },
+    {
+      "step": "compare",
+      "depth": 0,
+      "left": 2,
+      "right": 1,
+      "take": "right"
+    },
+    {
+      "step": "compare",
+      "depth": 0,
+      "left": 2,
+      "right": 5,
+      "take": "left"
+    },
+    {
+      "step": "compare",
+      "depth": 0,
+      "left": 7,
+      "right": 5,
+      "take": "right"
+    },
+    {
+      "step": "merged",
+      "depth": 0,
+      "values": [
+        1,
+        2,
+        5,
+        7
+      ]
+    }
+  ],
+  "result": [
+    1,
+    2,
+    5,
+    7
+  ]
+}

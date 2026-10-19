@@ -1,0 +1,198 @@
+{
+  "input": {
+    "A": [
+      "B",
+      "C"
+    ],
+    "B": [
+      "D"
+    ],
+    "C": [
+      "E"
+    ],
+    "D": [],
+    "E": []
+  },
+  "events": [
+    {
+      "step": "bfs_visit",
+      "node": "A",
+      "queue": [],
+      "visited": [
+        "A"
+      ]
+    },
+    {
+      "step": "bfs_enqueue",
+      "from": "A",
+      "node": "B",
+      "queue": [
+        "B"
+      ]
+    },
+    {
+      "step": "bfs_enqueue",
+      "from": "A",
+      "node": "C",
+      "queue": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "step": "bfs_visit",
+      "node": "B",
+      "queue": [
+        "C"
+      ],
+      "visited": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "step": "bfs_enqueue",
+      "from": "B",
+      "node": "D",
+      "queue": [
+        "C",
+        "D"
+      ]
+    },
+    {
+      "step": "bfs_visit",
+      "node": "C",
+      "queue": [
+        "D"
+      ],
+      "visited": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "step": "bfs_enqueue",
+      "from": "C",
+      "node": "E",
+      "queue": [
+        "D",
+        "E"
+      ]
+    },
+    {
+      "step": "bfs_visit",
+      "node": "D",
+      "queue": [
+        "E"
+      ],
+      "visited": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "step": "bfs_visit",
+      "node": "E",
+      "queue": [],
+      "visited": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "step": "dfs_enter",
+      "node": "A",
+      "depth": 0,
+      "visited": [
+        "A"
+      ]
+    },
+    {
+      "step": "dfs_enter",
+      "node": "B",
+      "depth": 1,
+      "visited": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "step": "dfs_enter",
+      "node": "D",
+      "depth": 2,
+      "visited": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "step": "dfs_return",
+      "node": "D",
+      "depth": 2
+    },
+    {
+      "step": "dfs_return",
+      "node": "B",
+      "depth": 1
+    },
+    {
+      "step": "dfs_enter",
+      "node": "C",
+      "depth": 1,
+      "visited": [
+        "A",
+        "B",
+        "D",
+        "C"
+      ]
+    },
+    {
+      "step": "dfs_enter",
+      "node": "E",
+      "depth": 2,
+      "visited": [
+        "A",
+        "B",
+        "D",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "step": "dfs_return",
+      "node": "E",
+      "depth": 2
+    },
+    {
+      "step": "dfs_return",
+      "node": "C",
+      "depth": 1
+    },
+    {
+      "step": "dfs_return",
+      "node": "A",
+      "depth": 0
+    }
+  ],
+  "bfs": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "dfs": [
+    "A",
+    "B",
+    "D",
+    "C",
+    "E"
+  ]
+}
