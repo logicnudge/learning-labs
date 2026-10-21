@@ -1,8 +1,10 @@
 # 024 — Sliding Window — Keep the Running Sum
 
-**Series:** DSA Explained Visually · **Status:** Runnable lesson; video not yet published
+**Series:** DSA Explained Visually · **Status:** Runnable lesson and published video
 
 **Learning Hub:** [Explore lesson #024](https://logicnudge.github.io/#lesson-024)
+
+**Watch Short:** [YouTube #024](https://www.youtube.com/shorts/FOGqDHmNVI4)
 
 ## Predict
 
@@ -50,4 +52,4 @@ The worked example demonstrates this specific algorithm and assumptions, not eve
 
 **Reference:** https://www.geeksforgeeks.org/window-sliding-technique/
 
-**Video status:** Not yet published. The Watch link will be added only after a verified public Short exists.
+**Video status:** Published on YouTube.

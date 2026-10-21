@@ -1,8 +1,10 @@
 # 021 — Two Sum — A Pair in One Pass
 
-**Series:** DSA Explained Visually · **Status:** Runnable lesson; video not yet published
+**Series:** DSA Explained Visually · **Status:** Runnable lesson and published video
 
 **Learning Hub:** [Explore lesson #021](https://logicnudge.github.io/#lesson-021)
+
+**Watch Short:** [YouTube #021](https://www.youtube.com/shorts/iTh5moe1KyY)
 
 ## Predict
 
@@ -50,4 +52,4 @@ The worked example demonstrates this specific algorithm and assumptions, not eve
 
 **Reference:** https://docs.python.org/3/library/stdtypes.html#mapping-types-dict
 
-**Video status:** Not yet published. The Watch link will be added only after a verified public Short exists.
+**Video status:** Published on YouTube.

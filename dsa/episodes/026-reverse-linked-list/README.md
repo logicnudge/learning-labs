@@ -1,8 +1,10 @@
 # 026 — Linked List — Save the Next Pointer
 
-**Series:** DSA Explained Visually · **Status:** Runnable lesson; video not yet published
+**Series:** DSA Explained Visually · **Status:** Runnable lesson and published video
 
 **Learning Hub:** [Explore lesson #026](https://logicnudge.github.io/#lesson-026)
+
+**Watch Short:** [YouTube #026](https://www.youtube.com/shorts/9eJxwVaYxx8)
 
 ## Predict
 
@@ -50,4 +52,4 @@ The worked example demonstrates this specific algorithm and assumptions, not eve
 
 **Reference:** https://leetcode.com/problems/reverse-linked-list/
 
-**Video status:** Not yet published. The Watch link will be added only after a verified public Short exists.
+**Video status:** Published on YouTube.

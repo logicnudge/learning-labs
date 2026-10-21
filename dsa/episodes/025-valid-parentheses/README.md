@@ -1,8 +1,10 @@
 # 025 — Stack — Matching Brackets
 
-**Series:** DSA Explained Visually · **Status:** Runnable lesson; video not yet published
+**Series:** DSA Explained Visually · **Status:** Runnable lesson and published video
 
 **Learning Hub:** [Explore lesson #025](https://logicnudge.github.io/#lesson-025)
+
+**Watch Short:** [YouTube #025](https://www.youtube.com/shorts/Ki73mfgwCd4)
 
 ## Predict
 
@@ -51,4 +53,4 @@ The worked example demonstrates this specific algorithm and assumptions, not eve
 
 **Reference:** https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-stacks
 
-**Video status:** Not yet published. The Watch link will be added only after a verified public Short exists.
+**Video status:** Published on YouTube.

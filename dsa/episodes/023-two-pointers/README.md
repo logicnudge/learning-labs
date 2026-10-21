@@ -1,8 +1,10 @@
 # 023 — Two Pointers — Meet in the Middle
 
-**Series:** DSA Explained Visually · **Status:** Runnable lesson; video not yet published
+**Series:** DSA Explained Visually · **Status:** Runnable lesson and published video
 
 **Learning Hub:** [Explore lesson #023](https://logicnudge.github.io/#lesson-023)
+
+**Watch Short:** [YouTube #023](https://www.youtube.com/shorts/ADHIwMfs28U)
 
 ## Predict
 
@@ -50,4 +52,4 @@ Requires an ascending sorted input; this demo does not sort or validate order fi
 
 **Reference:** https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 
-**Video status:** Not yet published. The Watch link will be added only after a verified public Short exists.
+**Video status:** Published on YouTube.

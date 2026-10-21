@@ -1,8 +1,10 @@
 # 030 — Memoization — Stop Repeating Fibonacci
 
-**Series:** DSA Explained Visually · **Status:** Runnable lesson; video not yet published
+**Series:** DSA Explained Visually · **Status:** Runnable lesson and published video
 
 **Learning Hub:** [Explore lesson #030](https://logicnudge.github.io/#lesson-030)
+
+**Watch Short:** [YouTube #030](https://www.youtube.com/shorts/XaqwH3Bh0Eo)
 
 ## Predict
 
@@ -50,4 +52,4 @@ The worked example demonstrates this specific algorithm and assumptions, not eve
 
 **Reference:** https://docs.python.org/3/library/functools.html#functools.cache
 
-**Video status:** Not yet published. The Watch link will be added only after a verified public Short exists.
+**Video status:** Published on YouTube.

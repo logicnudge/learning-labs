@@ -1,8 +1,10 @@
 # 022 — Binary Search — Discard Half
 
-**Series:** DSA Explained Visually · **Status:** Runnable lesson; video not yet published
+**Series:** DSA Explained Visually · **Status:** Runnable lesson and published video
 
 **Learning Hub:** [Explore lesson #022](https://logicnudge.github.io/#lesson-022)
+
+**Watch Short:** [YouTube #022](https://www.youtube.com/shorts/92BvQhiP9ME)
 
 ## Predict
 
@@ -50,4 +52,4 @@ Requires an ascending sorted input; this demo does not sort or validate order fi
 
 **Reference:** https://docs.python.org/3/library/bisect.html
 
-**Video status:** Not yet published. The Watch link will be added only after a verified public Short exists.
+**Video status:** Published on YouTube.

@@ -1,8 +1,10 @@
 # 027 — Recursion — Calls Down, Values Back
 
-**Series:** DSA Explained Visually · **Status:** Runnable lesson; video not yet published
+**Series:** DSA Explained Visually · **Status:** Runnable lesson and published video
 
 **Learning Hub:** [Explore lesson #027](https://logicnudge.github.io/#lesson-027)
+
+**Watch Short:** [YouTube #027](https://www.youtube.com/shorts/yCLw9M-K4e4)
 
 ## Predict
 
@@ -50,4 +52,4 @@ The worked example demonstrates this specific algorithm and assumptions, not eve
 
 **Reference:** https://docs.python.org/3/tutorial/controlflow.html#defining-functions
 
-**Video status:** Not yet published. The Watch link will be added only after a verified public Short exists.
+**Video status:** Published on YouTube.
